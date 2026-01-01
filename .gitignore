@@ -1,0 +1,17 @@
+/go1.15.14.linux-amd64.tar.gz
+/bin/
+/pkg/
+/var/
+/etc/thresprf_key/
+/ec2/__pycache__/
+/ec2/var/
+/ec2/etc/thresprf_key/
+/ec2/client
+/ec2/server
+/ec2/keygen
+/ec2/*.sh
+/ec2/*.txt
+/ec2/hosts
+/ec2/private_hosts
+/ec2/public_hosts
+/ec2/etc/conf.json
